@@ -1,1 +1,6 @@
+assetflow-frontend/node_modules/
+assetflow-frontend/dist/
+assetflow-backend/target/
 
+.env
+*.env

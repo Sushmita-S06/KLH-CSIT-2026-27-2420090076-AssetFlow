@@ -87,7 +87,13 @@ Make sure the following software is installed:
 ### Clone the Repository
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/Varshitha-0406/KLH-CSE-2026-27-2420030269-AssetFlow.git
 cd KLH-CSE-2026-27-2420030269-AssetFlow
 ```
 
+=======
+git clone https://github.com/Sushmita-S06/KLH-CSIT-2026-27-2420090076-AssetFlow.git
+cd KLH-CSIT-2026-27-2420090076-AssetFlow
+```
+>>>>>>> ef9e00473e63d360ea288bd1c540f23eae069a83
